@@ -1,3 +1,3 @@
 # k8s-gall
-This is a pub repo list step for build k8s gallery combine with jenkins automation
-The fprotect in repo is the example of realworld project in your company and in this folder contains folder with Dockerfile for build image and rollout deployment K8s later.
+This is a pub repo list steps for building k8s gallery combining with jenkins automation.
+The fprotect directory in repo is the example of real-world project in company containing folder ubuntu with Dockerfile for build image, push registry hub and rollout deployment K8s later.
