@@ -1,0 +1,3 @@
+[submodule "fprotect/ubuntu"]
+	path = fprotect/ubuntu
+	url = git@github.com:PhamHaiLong99/UbuntuJenkins.git
